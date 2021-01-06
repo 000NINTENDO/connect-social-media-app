@@ -1,0 +1,28 @@
+.nav_right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plus_sign {
+  margin-right: 50px;
+  font-size: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0.2s;
+  border-radius: 50%;
+}
+
+.plus {
+  transform-origin: center;
+  transition: 0.2s;
+}
+.plus:hover {
+  transform: scale(1.1);
+}
+
+.add_post {
+  font-size: 0.8rem;
+}

@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.avatar_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.avatar_img_container {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.users_menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  transform: rotate(90deg);
+}
+
+.avatar_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
