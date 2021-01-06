@@ -1,36 +1,6 @@
 Random Usres:
 url: 'https://randomuser.me/api
 
-result: 
-----------------------------
-{results: Array(1), info: {…}}
-info: {seed: "66a491fdc2efbce4", results: 1, page: 1, version: "1.3"}
-results: Array(1)
-0:
-cell: "066-204-5278"
-dob: {date: "1983-07-17T07:48:47.566Z", age: 38}
-email: "antoine.young@example.com"
-gender: "male"
-id: {name: "", value: null}
-location: {street: {…}, city: "Hampstead", state: "Manitoba", country: "Canada", postcode: "H7P 6C8", …}
-login: {uuid: "1f98862a-5eef-4571-96be-fb3444ab347d", username: "sadwolf961", password: "gangster", salt: "v547uDfw", md5: "480671433271862e70acff79a1eb2d09", …}
-name: {title: "Mr", first: "Antoine", last: "Young"}
-nat: "CA"
-phone: "226-722-4888"
-picture:
-large: "https://randomuser.me/api/portraits/men/31.jpg"
-medium: "https://randomuser.me/api/portraits/med/men/31.jpg"
-thumbnail: "https://randomuser.me/api/portraits/thumb/men/31.jpg"
-__proto__: Object
-registered:
-age: 16
-date: "2005-08-27T07:23:23.317Z"
-__proto__: Object
-__proto__: Object
-length: 1
-__proto__: Array(0)
-__proto__: Object
-
 -----------------
 Random Images
 https://source.unsplash.com/random

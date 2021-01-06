@@ -3,19 +3,15 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import { configureStore, nanoid } from "@reduxjs/toolkit";
-import userReducer, { addComment, removeLike } from "./reducers/usersSlice";
-import { postAdded } from "./reducers/usersSlice";
-import {
-	addPost,
-	addUser,
-	addLikes,
-	addCommentDetails,
-} from "./reducers/usersSlice";
+import userReducer from "./reducers/usersSlice";
+import postsReducer from "./reducers/postsSlice";
+import { initialPosts } from "./reducers/postsSlice";
 import { Provider } from "react-redux";
 
 const store = configureStore({
 	reducer: {
 		users: userReducer,
+		posts: postsReducer,
 	},
 });
 

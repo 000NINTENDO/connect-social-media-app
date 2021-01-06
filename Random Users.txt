@@ -1,0 +1,956 @@
+1. {
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Gökhan",
+                "last": "Baykam"
+            },
+            "location": {
+                "street": {
+                    "number": 2125,
+                    "name": "Filistin Cd"
+                },
+                "city": "Çankiri",
+                "state": "Igdir",
+                "country": "Turkey",
+                "postcode": 14847,
+                "coordinates": {
+                    "latitude": "75.7859",
+                    "longitude": "-177.6757"
+                },
+                "timezone": {
+                    "offset": "-9:00",
+                    "description": "Alaska"
+                }
+            },
+            "email": "gokhan.baykam@example.com",
+            "login": {
+                "uuid": "632393f0-3417-4094-9b8a-6a8dbb2c00cb",
+                "username": "orangemouse440",
+                "password": "redwing",
+                "salt": "mtgDdJre",
+                "md5": "74a39faf724eb81b03f996cb9d60747a",
+                "sha1": "ee2de28690a9235454ebff83afd10aa732face1c",
+                "sha256": "6f573775d9c7263421879b2244c7ed31471cc3c3dd5d31b3f2fbe6d1fb926122"
+            },
+            "dob": {
+                "date": "1981-02-16T08:48:09.143Z",
+                "age": 40
+            },
+            "registered": {
+                "date": "2011-09-30T16:50:42.708Z",
+                "age": 10
+            },
+            "phone": "(771)-700-7745",
+            "cell": "(374)-079-0869",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/84.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+            },
+            "nat": "TR"
+        }
+    ],
+    "info": {
+        "seed": "d2181828240bcccd",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+
+-------------------------------------------------------
+2. {
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Lilly",
+                "last": "Kumar"
+            },
+            "location": {
+                "street": {
+                    "number": 8905,
+                    "name": "Esk Street"
+                },
+                "city": "Greymouth",
+                "state": "Canterbury",
+                "country": "New Zealand",
+                "postcode": 75612,
+                "coordinates": {
+                    "latitude": "65.1826",
+                    "longitude": "125.4915"
+                },
+                "timezone": {
+                    "offset": "-1:00",
+                    "description": "Azores, Cape Verde Islands"
+                }
+            },
+            "email": "lilly.kumar@example.com",
+            "login": {
+                "uuid": "9666e432-b0b4-45b6-bc91-cf14d84bc096",
+                "username": "bigpeacock985",
+                "password": "manson",
+                "salt": "aSruTxDY",
+                "md5": "deb0432bc2f30bfd7d596678dfe285ed",
+                "sha1": "397fc2d67464d6e9e126b74a68197ddc1a424708",
+                "sha256": "b76800cc943aa46eac55e8d258eb6ceee6780db0af5639b7ff9f15b329e5ee56"
+            },
+            "dob": {
+                "date": "1951-05-13T13:20:24.610Z",
+                "age": 70
+            },
+            "registered": {
+                "date": "2006-11-18T04:48:04.794Z",
+                "age": 15
+            },
+            "phone": "(527)-705-3403",
+            "cell": "(663)-423-8166",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/84.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+            },
+            "nat": "NZ"
+        }
+    ],
+    "info": {
+        "seed": "0bcdfaed916bfdf1",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+
+-------------------
+
+3, {
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Julie",
+                "last": "Barnett"
+            },
+            "location": {
+                "street": {
+                    "number": 4191,
+                    "name": "South Street"
+                },
+                "city": "Southampton",
+                "state": "Nottinghamshire",
+                "country": "United Kingdom",
+                "postcode": "C29 2EJ",
+                "coordinates": {
+                    "latitude": "9.1355",
+                    "longitude": "24.9554"
+                },
+                "timezone": {
+                    "offset": "+3:00",
+                    "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+                }
+            },
+            "email": "julie.barnett@example.com",
+            "login": {
+                "uuid": "80886bcb-4122-4d86-9f97-abae16abb11c",
+                "username": "lazyostrich746",
+                "password": "marissa",
+                "salt": "ekj2HyJ7",
+                "md5": "0dd8704157b38eda9ffac389d1c266dd",
+                "sha1": "ec6b7e177a5904113f0bf04c608a003cb62d5073",
+                "sha256": "a81e34f5535e5f30f5aa33f4c6a5057dfc1953eb18257185238a476cedea28b1"
+            },
+            "dob": {
+                "date": "1981-08-25T22:33:15.309Z",
+                "age": 40
+            },
+            "registered": {
+                "date": "2018-05-03T05:15:16.592Z",
+                "age": 3
+            },
+            "phone": "016977 5375",
+            "cell": "0712-915-330",
+            "id": {
+                "name": "NINO",
+                "value": "MM 08 56 59 S"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/11.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+            },
+            "nat": "GB"
+        }
+    ],
+    "info": {
+        "seed": "9f4bb1df13ce7ac8",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+
+--------------------------
+
+4, {
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Sharron",
+                "last": "Obrien"
+            },
+            "location": {
+                "street": {
+                    "number": 5448,
+                    "name": "South Street"
+                },
+                "city": "Arklow",
+                "state": "Westmeath",
+                "country": "Ireland",
+                "postcode": 44966,
+                "coordinates": {
+                    "latitude": "25.0401",
+                    "longitude": "179.6284"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "sharron.obrien@example.com",
+            "login": {
+                "uuid": "dacc8b0e-6d52-49e2-b460-209e2c9ca557",
+                "username": "angrydog113",
+                "password": "graham",
+                "salt": "1vjM6kmt",
+                "md5": "fb11e547eeae212bb21615b714a96a84",
+                "sha1": "a972104201957d0919640191f0866a2c8a0887f5",
+                "sha256": "7cb2c81870a8e95f031e3c441e766eee1e358c1dd366c33b756d5f7899762ad6"
+            },
+            "dob": {
+                "date": "1976-12-23T02:23:14.861Z",
+                "age": 45
+            },
+            "registered": {
+                "date": "2018-08-01T18:54:32.188Z",
+                "age": 3
+            },
+            "phone": "061-676-3342",
+            "cell": "081-316-8050",
+            "id": {
+                "name": "PPS",
+                "value": "2852251T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "fbdccbf2ebcbf6ce",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+----------------------
+
+5 {
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Sharron",
+                "last": "Obrien"
+            },
+            "location": {
+                "street": {
+                    "number": 5448,
+                    "name": "South Street"
+                },
+                "city": "Arklow",
+                "state": "Westmeath",
+                "country": "Ireland",
+                "postcode": 44966,
+                "coordinates": {
+                    "latitude": "25.0401",
+                    "longitude": "179.6284"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "sharron.obrien@example.com",
+            "login": {
+                "uuid": "dacc8b0e-6d52-49e2-b460-209e2c9ca557",
+                "username": "angrydog113",
+                "password": "graham",
+                "salt": "1vjM6kmt",
+                "md5": "fb11e547eeae212bb21615b714a96a84",
+                "sha1": "a972104201957d0919640191f0866a2c8a0887f5",
+                "sha256": "7cb2c81870a8e95f031e3c441e766eee1e358c1dd366c33b756d5f7899762ad6"
+            },
+            "dob": {
+                "date": "1976-12-23T02:23:14.861Z",
+                "age": 45
+            },
+            "registered": {
+                "date": "2018-08-01T18:54:32.188Z",
+                "age": 3
+            },
+            "phone": "061-676-3342",
+            "cell": "081-316-8050",
+            "id": {
+                "name": "PPS",
+                "value": "2852251T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "fbdccbf2ebcbf6ce",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+------------
+
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Sharron",
+                "last": "Obrien"
+            },
+            "location": {
+                "street": {
+                    "number": 5448,
+                    "name": "South Street"
+                },
+                "city": "Arklow",
+                "state": "Westmeath",
+                "country": "Ireland",
+                "postcode": 44966,
+                "coordinates": {
+                    "latitude": "25.0401",
+                    "longitude": "179.6284"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "sharron.obrien@example.com",
+            "login": {
+                "uuid": "dacc8b0e-6d52-49e2-b460-209e2c9ca557",
+                "username": "angrydog113",
+                "password": "graham",
+                "salt": "1vjM6kmt",
+                "md5": "fb11e547eeae212bb21615b714a96a84",
+                "sha1": "a972104201957d0919640191f0866a2c8a0887f5",
+                "sha256": "7cb2c81870a8e95f031e3c441e766eee1e358c1dd366c33b756d5f7899762ad6"
+            },
+            "dob": {
+                "date": "1976-12-23T02:23:14.861Z",
+                "age": 45
+            },
+            "registered": {
+                "date": "2018-08-01T18:54:32.188Z",
+                "age": 3
+            },
+            "phone": "061-676-3342",
+            "cell": "081-316-8050",
+            "id": {
+                "name": "PPS",
+                "value": "2852251T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "fbdccbf2ebcbf6ce",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+------------
+
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Dana",
+                "last": "Jacobs"
+            },
+            "location": {
+                "street": {
+                    "number": 103,
+                    "name": "W Campbell Ave"
+                },
+                "city": "Coffs Harbour",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 4503,
+                "coordinates": {
+                    "latitude": "-84.9014",
+                    "longitude": "113.3086"
+                },
+                "timezone": {
+                    "offset": "+4:00",
+                    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                }
+            },
+            "email": "dana.jacobs@example.com",
+            "login": {
+                "uuid": "37ca0e42-6848-4bc4-a38d-207506cb94f0",
+                "username": "ticklishdog104",
+                "password": "lemmein",
+                "salt": "GqHSXqhl",
+                "md5": "3461788e1f2aa21644d5ba803cc52427",
+                "sha1": "77d931473bd25bc5c1dcce3b7946d913fbacadce",
+                "sha256": "58f2244e1a047ab938db2eb384f069eaeede6f57002134cea5b766c46a888b04"
+            },
+            "dob": {
+                "date": "1969-04-24T08:21:51.273Z",
+                "age": 52
+            },
+            "registered": {
+                "date": "2007-11-23T17:34:48.055Z",
+                "age": 14
+            },
+            "phone": "03-7752-9077",
+            "cell": "0497-803-852",
+            "id": {
+                "name": "TFN",
+                "value": "948788389"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/0.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+            },
+            "nat": "AU"
+        }
+    ],
+    "info": {
+        "seed": "933e6e0abdce46d4",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+
+------
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Dana",
+                "last": "Jacobs"
+            },
+            "location": {
+                "street": {
+                    "number": 103,
+                    "name": "W Campbell Ave"
+                },
+                "city": "Coffs Harbour",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 4503,
+                "coordinates": {
+                    "latitude": "-84.9014",
+                    "longitude": "113.3086"
+                },
+                "timezone": {
+                    "offset": "+4:00",
+                    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                }
+            },
+            "email": "dana.jacobs@example.com",
+            "login": {
+                "uuid": "37ca0e42-6848-4bc4-a38d-207506cb94f0",
+                "username": "ticklishdog104",
+                "password": "lemmein",
+                "salt": "GqHSXqhl",
+                "md5": "3461788e1f2aa21644d5ba803cc52427",
+                "sha1": "77d931473bd25bc5c1dcce3b7946d913fbacadce",
+                "sha256": "58f2244e1a047ab938db2eb384f069eaeede6f57002134cea5b766c46a888b04"
+            },
+            "dob": {
+                "date": "1969-04-24T08:21:51.273Z",
+                "age": 52
+            },
+            "registered": {
+                "date": "2007-11-23T17:34:48.055Z",
+                "age": 14
+            },
+            "phone": "03-7752-9077",
+            "cell": "0497-803-852",
+            "id": {
+                "name": "TFN",
+                "value": "948788389"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/0.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+            },
+            "nat": "AU"
+        }
+    ],
+    "info": {
+        "seed": "933e6e0abdce46d4",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+-----
+
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Allen",
+                "last": "Perkins"
+            },
+            "location": {
+                "street": {
+                    "number": 2700,
+                    "name": "Fincher Rd"
+                },
+                "city": "Fountain Valley",
+                "state": "Connecticut",
+                "country": "United States",
+                "postcode": 58176,
+                "coordinates": {
+                    "latitude": "86.6651",
+                    "longitude": "-31.8717"
+                },
+                "timezone": {
+                    "offset": "+1:00",
+                    "description": "Brussels, Copenhagen, Madrid, Paris"
+                }
+            },
+            "email": "allen.perkins@example.com",
+            "login": {
+                "uuid": "0b744528-5cb1-45be-91f1-2823b8f090c1",
+                "username": "yellowcat255",
+                "password": "asswipe",
+                "salt": "vUUguT4L",
+                "md5": "101eb396336f155088ec42291fb2338b",
+                "sha1": "e2e431f23afa57ae67d208566d8bf0a562cc2614",
+                "sha256": "fc1d52ff87a38e79dd9c39a479515ab43f02137e42855ba7aeeb9592de9b40f4"
+            },
+            "dob": {
+                "date": "1971-09-19T15:12:33.733Z",
+                "age": 50
+            },
+            "registered": {
+                "date": "2005-06-10T17:53:07.193Z",
+                "age": 16
+            },
+            "phone": "(659)-050-7136",
+            "cell": "(534)-786-0494",
+            "id": {
+                "name": "SSN",
+                "value": "877-62-1769"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/19.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+            },
+            "nat": "US"
+        }
+    ],
+    "info": {
+        "seed": "6464903bdd6e8ac1",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+
+-------
+
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Walter",
+                "last": "Cunningham"
+            },
+            "location": {
+                "street": {
+                    "number": 666,
+                    "name": "Photinia Ave"
+                },
+                "city": "Lewisville",
+                "state": "Pennsylvania",
+                "country": "United States",
+                "postcode": 46625,
+                "coordinates": {
+                    "latitude": "87.7368",
+                    "longitude": "-84.0223"
+                },
+                "timezone": {
+                    "offset": "+9:30",
+                    "description": "Adelaide, Darwin"
+                }
+            },
+            "email": "walter.cunningham@example.com",
+            "login": {
+                "uuid": "f2e197c6-00fb-479b-b665-9703a87c2922",
+                "username": "happygoose608",
+                "password": "grendel",
+                "salt": "ad9RCLTn",
+                "md5": "28302e18886b85af1211cc1a7e0f8bf2",
+                "sha1": "f10d709264481429fa59ea4525315f77df825633",
+                "sha256": "d5bc28ef6ca7ef3e0ab92eae30c1f228f62a7c22e95347f04c4e44987a0e7824"
+            },
+            "dob": {
+                "date": "1970-07-05T03:46:38.105Z",
+                "age": 51
+            },
+            "registered": {
+                "date": "2002-10-20T13:53:28.671Z",
+                "age": 19
+            },
+            "phone": "(654)-715-1146",
+            "cell": "(366)-784-0152",
+            "id": {
+                "name": "SSN",
+                "value": "290-39-9464"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/19.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+            },
+            "nat": "US"
+        }
+    ],
+    "info": {
+        "seed": "173167bf6bbd1004",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+--------
+
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Jeanne",
+                "last": "Abraham"
+            },
+            "location": {
+                "street": {
+                    "number": 7714,
+                    "name": "St. Catherine St"
+                },
+                "city": "Campbellton",
+                "state": "New Brunswick",
+                "country": "Canada",
+                "postcode": "H8Y 5W1",
+                "coordinates": {
+                    "latitude": "-63.9269",
+                    "longitude": "28.7614"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "jeanne.abraham@example.com",
+            "login": {
+                "uuid": "9093cd14-656d-41e8-bf62-4282a4922912",
+                "username": "bluefish248",
+                "password": "hardball",
+                "salt": "ux1e3Gm9",
+                "md5": "0a78ccf98ad7f50cece3e151c14d8eac",
+                "sha1": "a940b715117f189d999394cfdeca049f13dd35b3",
+                "sha256": "99e80c022dc199eb5feb6ac0b49e5e18fa3783359e860514d120bdf1069c2b25"
+            },
+            "dob": {
+                "date": "1971-12-30T09:03:40.492Z",
+                "age": 50
+            },
+            "registered": {
+                "date": "2005-05-16T00:11:14.706Z",
+                "age": 16
+            },
+            "phone": "261-151-1321",
+            "cell": "737-085-7280",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/63.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "7a97c0d91d3b17a8",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+----
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Anna",
+                "last": "Caballero"
+            },
+            "location": {
+                "street": {
+                    "number": 974,
+                    "name": "Calle de Arturo Soria"
+                },
+                "city": "Arrecife",
+                "state": "Asturias",
+                "country": "Spain",
+                "postcode": 75762,
+                "coordinates": {
+                    "latitude": "-16.7641",
+                    "longitude": "171.7534"
+                },
+                "timezone": {
+                    "offset": "-1:00",
+                    "description": "Azores, Cape Verde Islands"
+                }
+            },
+            "email": "anna.caballero@example.com",
+            "login": {
+                "uuid": "11761511-b8e3-49ba-b4e1-121779ebdfda",
+                "username": "beautifulbird232",
+                "password": "titts",
+                "salt": "F4mLSMCq",
+                "md5": "187a561a7e67091d74f0a7840e98322e",
+                "sha1": "d752c38fc452ee6b7c5917cb51f18bcad7a5f48c",
+                "sha256": "3ee050fa94b6c482fd7d8a9d9fe918ff220f1112b2e266d15ea8a066c07133b9"
+            },
+            "dob": {
+                "date": "1949-10-24T18:20:12.001Z",
+                "age": 72
+            },
+            "registered": {
+                "date": "2009-12-20T13:01:14.793Z",
+                "age": 12
+            },
+            "phone": "959-789-862",
+            "cell": "654-391-583",
+            "id": {
+                "name": "DNI",
+                "value": "14936527-K"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/47.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+            },
+            "nat": "ES"
+        }
+    ],
+    "info": {
+        "seed": "c3eb9e8a270385df",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+----
+
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Anna",
+                "last": "Caballero"
+            },
+            "location": {
+                "street": {
+                    "number": 974,
+                    "name": "Calle de Arturo Soria"
+                },
+                "city": "Arrecife",
+                "state": "Asturias",
+                "country": "Spain",
+                "postcode": 75762,
+                "coordinates": {
+                    "latitude": "-16.7641",
+                    "longitude": "171.7534"
+                },
+                "timezone": {
+                    "offset": "-1:00",
+                    "description": "Azores, Cape Verde Islands"
+                }
+            },
+            "email": "anna.caballero@example.com",
+            "login": {
+                "uuid": "11761511-b8e3-49ba-b4e1-121779ebdfda",
+                "username": "beautifulbird232",
+                "password": "titts",
+                "salt": "F4mLSMCq",
+                "md5": "187a561a7e67091d74f0a7840e98322e",
+                "sha1": "d752c38fc452ee6b7c5917cb51f18bcad7a5f48c",
+                "sha256": "3ee050fa94b6c482fd7d8a9d9fe918ff220f1112b2e266d15ea8a066c07133b9"
+            },
+            "dob": {
+                "date": "1949-10-24T18:20:12.001Z",
+                "age": 72
+            },
+            "registered": {
+                "date": "2009-12-20T13:01:14.793Z",
+                "age": 12
+            },
+            "phone": "959-789-862",
+            "cell": "654-391-583",
+            "id": {
+                "name": "DNI",
+                "value": "14936527-K"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/47.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+            },
+            "nat": "ES"
+        }
+    ],
+    "info": {
+        "seed": "c3eb9e8a270385df",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+---{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Madame",
+                "first": "Giuliana",
+                "last": "Colin"
+            },
+            "location": {
+                "street": {
+                    "number": 5607,
+                    "name": "Rue de Cuire"
+                },
+                "city": "Doppleschwand",
+                "state": "Schwyz",
+                "country": "Switzerland",
+                "postcode": 4952,
+                "coordinates": {
+                    "latitude": "-51.4917",
+                    "longitude": "6.9646"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "giuliana.colin@example.com",
+            "login": {
+                "uuid": "52a7873a-084c-4ff5-a9ec-05184e71e67a",
+                "username": "smallbear397",
+                "password": "underwear",
+                "salt": "ItY98wOL",
+                "md5": "32bed3275408d8181cb921ea4e6f2022",
+                "sha1": "7700a14e20b02ee27e1e2b1484e88c4169e3b774",
+                "sha256": "5beb557ef2e64bbc49ff7581e1078230821db377816904c55b916384b63f8bab"
+            },
+            "dob": {
+                "date": "1950-12-23T06:32:08.436Z",
+                "age": 71
+            },
+            "registered": {
+                "date": "2011-12-11T03:06:31.113Z",
+                "age": 10
+            },
+            "phone": "075 934 69 97",
+            "cell": "079 712 07 66",
+            "id": {
+                "name": "AVS",
+                "value": "756.9522.2531.37"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/28.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+            },
+            "nat": "CH"
+        }
+    ],
+    "info": {
+        "seed": "7eb872ce0939514c",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
+
+
+
+
+
+
